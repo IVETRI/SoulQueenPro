@@ -1,3 +1,9 @@
+# Project Moved
+
+With the recent acquisition with Intellivoid Technologies, Haruka Aya's repository has been moved to the respective organization. 
+See [https://github.com/Intellivoid/HarukaAya](https://github.com/Intellivoid/HarukaAya)
+
+
 # Haruka Aya
 
 To anyone coming here to **clone this bot**, no support will be given for it. If you dare to join the support group and asks for how to run this bot, you'll be banned with no warning and you can blame no one but yourself for that.
